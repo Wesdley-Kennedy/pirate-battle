@@ -6,7 +6,7 @@ The original challenge brief asked for a single-player, browser-only game with R
 
 ## Live Demo
 
-> _Deploy pending — add the Vercel URL here after `vercel deploy` (see [Deployment](#deployment))._
+https://pirate-battle-pink.vercel.app/
 
 ## Stack
 
