@@ -1,6 +1,14 @@
 # macOS
 .DS_Store
 
+# IDE
+.idea/
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/
+
 # Dependencies
 node_modules/
 
